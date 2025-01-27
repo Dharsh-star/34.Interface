@@ -58,3 +58,16 @@ public class CalculatorProgram {
         scanner.close();
     }
 }
+Output
+
+Welcome to the Simple Calculator!
+Enter the first number:
+345
+Enter the second number:
+234
+
+Results:
+Addition:579.0
+Subtraction:111.0
+Multiplication:80730.0
+Division:1.4743589743589745
